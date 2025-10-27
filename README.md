@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ashaya Stewart
+# Hi, I'm Ashaya Stewart
 
 ### 🎨 Designer with Coding Skills | Front-End Developer | UI/UX Enthusiast
 
