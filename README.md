@@ -1,6 +1,6 @@
 # Hi, I'm Ashaya Stewart
 
-### 🎨 Designer with Coding Skills | Front-End Developer | UI/UX Enthusiast
+### Front-End Developer | UI/UX Enthusiast
 
 I’m a **designer with coding skills** who loves bringing creative ideas to life through code.  
 With a background in **Full Stack Web Development** and a passion for **Front-End Design**, I specialize in creating visually engaging and user-friendly digital experiences.
