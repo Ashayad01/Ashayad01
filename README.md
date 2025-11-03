@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Logo%20Color01.png" alt="Ashaya Stewart Logo" width="250"/>
+</p>
+
 # Hi, I'm Ashaya Stewart
 
 ### Front-End Developer | UI/UX Enthusiast
@@ -9,12 +13,9 @@ With a background in **Full Stack Web Development** and a passion for **Front-En
 
 ## 💻 Technical Skills
 
-**Languages & Frameworks:**
-- HTML5 | CSS3 | JavaScript (ES6+)
-- Python | Java | SQL
-
-**Tools & Design Software:**
-- Figma | Adobe Creative Suite (Photoshop, Illustrator, XD)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,figma,ai,ps" />
+</p>
 
 **Areas of Focus:**
 - Front-End Web Development
@@ -42,13 +43,6 @@ Exploring **JavaScript libraries** and **CSS frameworks** to enhance my workflow
 **Outside of Tech:**  
 When I’m not coding, I’m creating art. I’m an **oil pastel artist** inspired by **surrealism** and love finding creative ways to merge art and technology.
 
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,figma,ai,ps" />
-</p>
 
 ---
 
@@ -68,5 +62,3 @@ When I’m not coding, I’m creating art. I’m an **oil pastel artist** inspir
 ---
 
 ✨ *"Designing through code is where creativity meets logic"*
-
- 
