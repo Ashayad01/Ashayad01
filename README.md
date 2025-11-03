@@ -1,5 +1,12 @@
 <p align="center">
-  <img src="Logo%20Color02.png" alt="Ashaya Stewart Logo" width=100%/>
+  <picture>
+    <!-- Light mode logo -->
+    <source media="(prefers-color-scheme: light)" srcset="Logo%20Color01.png">
+    <!-- Dark mode logo -->
+    <source media="(prefers-color-scheme: dark)" srcset="Ashaya%20Logo.png">
+    <!-- Fallback logo (light) -->
+    <img src="Logo%20Color01.png" alt="Ashaya Stewart Logo" width="90%">
+  </picture>
 </p>
 
 # Hi, I'm Ashaya Stewart
@@ -38,27 +45,4 @@ I first discovered coding through a **Girl Scouts workshop in middle school**, a
 Since then, I’ve blended my artistic side with my technical background — crafting experiences that are as beautiful as they are functional.
 
 **Currently Learning:**  
-Exploring **JavaScript libraries** and **CSS frameworks** to enhance my workflow and streamline front-end development.
-
-**Outside of Tech:**  
-When I’m not coding, I’m creating art. I’m an **oil pastel artist** inspired by **surrealism** and love finding creative ways to merge art and technology.
-
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashayastewart&show_icons=true&theme=rose_pine" alt="Ashaya's GitHub Stats" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-💼 [LinkedIn](https://www.linkedin.com/in/ashaya-stewart/)  
-🎨 [Behance](https://www.behance.net/ashayastewart)
-
----
-
-✨ *"Designing through code is where creativity meets logic"*
+Exploring
