@@ -5,7 +5,7 @@
     <!-- Dark mode logo -->
     <source media="(prefers-color-scheme: dark)" srcset="Ashaya%20Logo.png">
     <!-- Fallback logo (light) -->
-    <img src="Logo%20Color01.png" alt="Ashaya Stewart Logo" width="90%">
+    <img src="Logo%20Color01.png" alt="Ashaya Stewart Logo" width="40%">
   </picture>
 </p>
 
