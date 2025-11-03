@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logo%20Color02.png" alt="Ashaya Stewart Logo" width="250"/>
+  <img src="Logo%20Color02.png" alt="Ashaya Stewart Logo" width=100%/>
 </p>
 
 # Hi, I'm Ashaya Stewart
