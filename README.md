@@ -39,10 +39,10 @@ Features clean, minimalist design with interactive JavaScript elements that high
 
 ---
 
-## 👩🏽‍💻 About Me
+## 👩🏽‍💻 Fun Facts
 
 I first discovered coding through a **Girl Scouts workshop in middle school**, and it was love at first line of code.  
 Since then, I’ve blended my artistic side with my technical background — crafting experiences that are as beautiful as they are functional.
 
 **Currently Learning:**  
-Exploring
+JavaScript libraries and playing around with their different functionalities!
